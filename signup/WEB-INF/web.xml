@@ -1,0 +1,12 @@
+<web-app>
+<servlet>
+    <servlet-name>Googlepay_SignUp</servlet-name>
+    <servlet-class>Signup</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>Googlepay_SignUp</servlet-name>
+    <url-pattern>/signup_details</url-pattern>
+</servlet-mapping>
+
+</web-app>
